@@ -1,0 +1,6 @@
+{
+  "name": "Oussema Taleb Coach Privé",
+  "description": "Site vitrine d'élite pour Oussema Taleb, coach sportif privé et préparateur physique. Arrière-plan vidéo immersif, programmes d'entraînement sur-mesure, témoignages clients et espace d'administration sécurisé.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
